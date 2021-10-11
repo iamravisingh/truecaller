@@ -13,6 +13,11 @@ I have deployed this project in heroku.
 Open [https://truecallerblogs.herokuapp.com/](https://truecallerblogs.herokuapp.com/)
 You can find my code structure in [https://github.com/iamravisingh/truecaller](https://github.com/iamravisingh/truecaller)
 
+
+**Note:**
+ - post data is only available till page 24 
+ - pagination count is till 38 for posts ( which is calculated based on the `found` in api)
+ - if particaluar contains no post then message will be shown and pagination will still exists i.e to change page.
 ### `npm start`
 
 Runs the app in the development mode.\
