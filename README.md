@@ -9,6 +9,9 @@ In the project directory, you can run:
 ## Details
 
 Used React and materialUI for implementing the structure.Maintained generic component and reused it.
+I have deployed this project in heroku.
+Open [https://truecallerblogs.herokuapp.com/](https://truecallerblogs.herokuapp.com/)
+You can find my code structure in [https://github.com/iamravisingh/truecaller](https://github.com/iamravisingh/truecaller)
 
 ### `npm start`
 
